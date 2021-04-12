@@ -29,5 +29,25 @@ class StringUtilTest {
         Assertions.assertEquals("hola", StringUtil.repeat("hola", -1));
     }
 
+    @Test()
+    public void string_empty() {
+        Assertions.assertTrue(StringUtil.isEmpty(""));
+    }
+
+    @Test()
+    public void string_null() {
+        Assertions.assertTrue(StringUtil.isEmpty(null));
+    }
+
+    @Test()
+    public void string_space_bar() {
+        Assertions.assertTrue(StringUtil.isEmpty(" "));
+    }
+
+    @Test()
+    public void string_not_empty() {
+        Assertions.assertFalse(StringUtil.isEmpty("String:)"));
+    }
+
 
 }

@@ -59,6 +59,13 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="\src\test\java\com\platzi\javatests\util\DateUtilTest.java">
+          <value>
+            <Attribute>
+              <option name="separator" value=";" />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="\src\test\java\com\platzi\javatests\util\PasswordUtilTest.java">
           <value>
             <Attribute>
