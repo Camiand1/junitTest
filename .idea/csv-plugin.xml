@@ -38,6 +38,13 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="\src\main\java\com\platzi\javatests\util\RomanNumerals.java">
+          <value>
+            <Attribute>
+              <option name="separator" value=";" />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="\src\main\java\com\platzi\javatests\util\StringUtil.java">
           <value>
             <Attribute>
@@ -73,7 +80,21 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="\src\test\java\com\platzi\javatests\util\FizzBuzzTest.java">
+          <value>
+            <Attribute>
+              <option name="separator" value=";" />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="\src\test\java\com\platzi\javatests\util\PasswordUtilTest.java">
+          <value>
+            <Attribute>
+              <option name="separator" value=";" />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\src\test\java\com\platzi\javatests\util\RomanNumeralsTest.java">
           <value>
             <Attribute>
               <option name="separator" value=";" />
