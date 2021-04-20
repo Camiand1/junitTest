@@ -33,3 +33,11 @@ p
 @src/main/java/com/platzi/javatests/discount/PriceCalculator.java,6\2\624552ee1c0e445dacc85c3e8ab87d5ab87c05d6
 t
 Dsrc/test/java/com/platzi/javatests/discount/PriceCalculatorTest.java,c\f\cfd6045cd2978c07ebea3a55387be92c0ea80209
+e
+5src/main/java/com/platzi/javatests/util/FizzBuzz.java,2\6\2686916d4af4beb48f0088c5316515da998c5c4a
+i
+9src/test/java/com/platzi/javatests/util/FizzBuzzTest.java,9\9\9958cb1ecab591fa26b35e638cc543c23d8e7402
+n
+>src/test/java/com/platzi/javatests/util/RomanNumeralsTest.java,b\d\bdcb860cd80708b20318cc1545f6625231cca891
+j
+:src/main/java/com/platzi/javatests/util/RomanNumerals.java,d\d\dd227fbec17970beac5e4435225441680529ef55
